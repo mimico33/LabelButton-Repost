@@ -1,7 +1,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet weak var label: UILabel!
     
     
@@ -9,13 +9,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
-
+    
     @IBAction func Button(_ sender: Any) {
         
-        label.text = "World!"
-    
+        label.text = "World"
     }
-    
-    
 }
-
