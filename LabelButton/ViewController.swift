@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  LabelButton
-//
-//  Created by mico on 2021/05/14.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
